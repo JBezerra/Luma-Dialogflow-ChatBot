@@ -1,0 +1,48 @@
+{
+  "id": "b3d29d4c-af1b-4825-9604-c8fbe11e85ad",
+  "parentId": "dbf6c11a-ef82-4f06-89ba-34310a2dff19",
+  "rootParentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "name": "luma.bemvindo.atendimento.telefone",
+  "auto": true,
+  "contexts": [
+    "lumabemvindoatendimentocpf-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumabemvindoatendimento.lumabemvindoatendimento-custom.lumabemvindoatendimentonome-custom.lumabemvindoatendimentocpf-custom",
+      "affectedContexts": [
+        {
+          "name": "lumabemvindoatendimentotelefone-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b661944e-ebad-4a51-abba-276c7ecee876",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "telefone",
+          "value": "$telefone",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "❗️❗️❗️ Falta pouco pra terminar #lumabemvindoatendimentonome-followup.nome 😆  Uma pergunta meio pessoal... você se identifica com o gênero masculino ou feminino? 🙈"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

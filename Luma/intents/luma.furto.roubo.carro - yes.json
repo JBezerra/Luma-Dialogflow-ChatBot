@@ -1,0 +1,34 @@
+{
+  "id": "6ca5c779-bdfc-40e5-9627-fb35e7292eba",
+  "parentId": "c3226799-a563-4ea7-ba16-f9ce65028647",
+  "rootParentId": "c3226799-a563-4ea7-ba16-f9ce65028647",
+  "name": "luma.furto.roubo.carro - yes",
+  "auto": true,
+  "contexts": [
+    "lumafurtoroubocarro-followup",
+    "lumafurtoroubo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumafurtoroubocarro.lumafurtoroubocarro-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Para acionar seu seguro precisaremos dos seguintes documentos:\n    - Cópia da Carteira de Motorista (CNH)\t\n    - Cópia do Documento do Veículo (CRLV)\t\n    - Boletim de Ocorrência (BO)\t       \n    Para agilizar o processo você poderá também digitalizar os documentos e enviá-los pelo nosso site, mas o envio da documentação original é etapa obrigatória. \nwww.assistenteluma.com.br"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244521,
+  "fallbackIntent": false,
+  "events": []
+}

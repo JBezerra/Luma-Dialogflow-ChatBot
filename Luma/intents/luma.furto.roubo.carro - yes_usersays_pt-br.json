@@ -1,0 +1,110 @@
+[
+  {
+    "id": "97fc5789-f10f-42bd-b144-3d2b9805aa20",
+    "data": [
+      {
+        "text": "sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497435677
+  },
+  {
+    "id": "1a056b7b-e3fd-489f-9996-58ea2d6e717b",
+    "data": [
+      {
+        "text": "faça isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435677
+  },
+  {
+    "id": "20614045-7c87-42f5-9ccc-bb7f96741e66",
+    "data": [
+      {
+        "text": "isso mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497435677
+  },
+  {
+    "id": "ea173bdc-133c-4169-855d-a0c1f5e1d872",
+    "data": [
+      {
+        "text": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497435677
+  },
+  {
+    "id": "9d0deaf5-0af0-4626-bbd2-ef267ef87baa",
+    "data": [
+      {
+        "text": "parece bom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497435677
+  },
+  {
+    "id": "49bfce91-d769-443b-bcd5-0626c8353df5",
+    "data": [
+      {
+        "text": "concordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435677
+  },
+  {
+    "id": "0164913a-a86d-4ce2-875e-88827327bef6",
+    "data": [
+      {
+        "text": "exatamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497435677
+  },
+  {
+    "id": "e0cf170e-3804-49fe-9d72-996572f484b1",
+    "data": [
+      {
+        "text": "claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497435677
+  },
+  {
+    "id": "6d13002c-053b-4fa5-ad55-4a7cf601eb4d",
+    "data": [
+      {
+        "text": "com certeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435677
+  }
+]

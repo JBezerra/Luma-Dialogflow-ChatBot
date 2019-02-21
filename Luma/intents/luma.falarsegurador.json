@@ -1,0 +1,44 @@
+{
+  "id": "c271830e-31da-4f25-9f81-e184a6eda315",
+  "name": "luma.falarsegurador",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "34ed1e25-eb87-47f1-9b93-db2b272aca7e",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        },
+        {
+          "id": "25f3630d-6283-4645-9906-6d33ef774d05",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "☹️ aaaah uma pena que você não quer conversar comigo. Avisarei ao segurador, se quiser falar com ele, o numero é 📞 11 987651234"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dc5bc78f-ebcf-42e9-b866-cf79922fee34",
+  "parentId": "b3d29d4c-af1b-4825-9604-c8fbe11e85ad",
+  "rootParentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "name": "luma.bemvindo.atendimento.genero",
+  "auto": true,
+  "contexts": [
+    "lumabemvindoatendimentotelefone-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumabemvindoatendimento.lumabemvindoatendimento-custom.lumabemvindoatendimentonome-custom.lumabemvindoatendimentocpf-custom.lumabemvindoatendimentotelefone-custom",
+      "affectedContexts": [
+        {
+          "name": "lumabemvindoatendimentogenero-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "24b9bc4f-7a9f-41ca-8211-492091cb6f3f",
+          "required": false,
+          "dataType": "@genero",
+          "name": "genero",
+          "value": "$genero",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "‼️‼️ Perfeito, falta POUCO pra a gente terminar, qual a placa do seu carro para eu saber as informações dele? 🚙  ⚠️Separado por traco. Ex: AAA-1234"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

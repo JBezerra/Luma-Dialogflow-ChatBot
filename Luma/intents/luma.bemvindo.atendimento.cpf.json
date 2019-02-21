@@ -1,0 +1,48 @@
+{
+  "id": "dbf6c11a-ef82-4f06-89ba-34310a2dff19",
+  "parentId": "5b9e3ded-1c13-416b-b92e-3e003803b39b",
+  "rootParentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "name": "luma.bemvindo.atendimento.cpf",
+  "auto": true,
+  "contexts": [
+    "lumabemvindoatendimentonome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumabemvindoatendimento.lumabemvindoatendimento-custom.lumabemvindoatendimentonome-custom",
+      "affectedContexts": [
+        {
+          "name": "lumabemvindoatendimentocpf-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f90093ec-7e6e-4686-9f5a-d928c99441f3",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "cpf",
+          "value": "$cpf",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "‼️ Show #lumabemvindoatendimentonome-followup.nome! Você poderia me dar o seu telefone de contato? ⚠️ Com DDD. Ex:819XXXXXXXX"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

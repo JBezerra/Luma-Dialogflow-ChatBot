@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7da8d5fd-4120-4a57-917e-65a1a85ede7d",
+    "data": [
+      {
+        "text": "feminino",
+        "alias": "genero",
+        "meta": "@genero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b925f2b3-a3ff-45ce-9de9-b8940a0db367",
+    "data": [
+      {
+        "text": "masculino",
+        "alias": "genero",
+        "meta": "@genero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

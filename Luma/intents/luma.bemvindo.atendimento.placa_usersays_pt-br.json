@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2b218021-20d5-44a2-9321-6e4720ec0138",
+    "data": [
+      {
+        "text": "minha placa é ",
+        "userDefined": false
+      },
+      {
+        "text": "KJS-1029",
+        "alias": "placa",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0beea359-bbe1-4fac-86e7-465cf4f35988",
+    "data": [
+      {
+        "text": "OYS-4523",
+        "alias": "placa",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

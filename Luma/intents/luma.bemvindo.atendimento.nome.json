@@ -1,0 +1,48 @@
+{
+  "id": "5b9e3ded-1c13-416b-b92e-3e003803b39b",
+  "parentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "rootParentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "name": "luma.bemvindo.atendimento.nome",
+  "auto": true,
+  "contexts": [
+    "lumabemvindoatendimento-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumabemvindoatendimento.lumabemvindoatendimento-custom",
+      "affectedContexts": [
+        {
+          "name": "lumabemvindoatendimentonome-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d567b7ef-16cb-417d-b5d6-e620bcc74da0",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "nome",
+          "value": "$nome",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "❗️ Primeiro passo ja foi $nome[0]! Qual o seu cpf?  ⚠️ Sem traços ou pontos Ex: 11122233345"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

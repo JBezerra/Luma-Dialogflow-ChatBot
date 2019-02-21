@@ -1,0 +1,42 @@
+{
+  "id": "5cfe542a-292d-4540-a919-9c9037cb9690",
+  "parentId": "dc5bc78f-ebcf-42e9-b866-cf79922fee34",
+  "rootParentId": "7ffe824f-a6db-46c8-832d-e769df840a00",
+  "name": "luma.bemvindo.atendimento.placa",
+  "auto": true,
+  "contexts": [
+    "lumabemvindoatendimentogenero-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lumabemvindoatendimento.lumabemvindoatendimento-custom.lumabemvindoatendimentonome-custom.lumabemvindoatendimentocpf-custom.lumabemvindoatendimentotelefone-custom.lumabemvindoatendimentogenero-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ef06950-14d8-4fd9-b365-15c47c34eba9",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "placa",
+          "value": "$placa",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "✅ Perfeito! Nós terminamos por aqui, nosso corretor Fernando irá falar com você em menos de 24 horas! Fica tranquilo 😁"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

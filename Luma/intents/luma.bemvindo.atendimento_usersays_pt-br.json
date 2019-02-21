@@ -1,0 +1,88 @@
+[
+  {
+    "id": "d2b672e7-1713-4b50-9046-8f28a8f76498",
+    "data": [
+      {
+        "text": "pode me atender luma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a2df9b6-e14c-4a34-bb20-4bf285ea15c7",
+    "data": [
+      {
+        "text": "gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pré-atendimento por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "515e043c-cd5e-4ab9-8b0e-db24c470195b",
+    "data": [
+      {
+        "text": "atendimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08be1ce8-8790-45a4-8851-4732be59dd3f",
+    "data": [
+      {
+        "text": "pode me atender",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1e986a4-ba2b-4a58-b49b-e8cb0a109c71",
+    "data": [
+      {
+        "text": "gostaria de fazer o pré-atendimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e26fa62-e3c9-4b8e-9d7f-62a2728eec17",
+    "data": [
+      {
+        "text": "pré-atendimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ca1f565-c9e0-44d8-a0d8-ff0e9669d51a",
+    "data": [
+      {
+        "text": "quero ser atendido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

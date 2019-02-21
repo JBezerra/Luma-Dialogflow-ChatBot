@@ -1,0 +1,222 @@
+[
+  {
+    "id": "454b5514-cd3f-4737-b1b5-b1c401a8d565",
+    "data": [
+      {
+        "text": "eu quero falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " atendente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54c6345a-1c19-48ce-b104-a24d458e3619",
+    "data": [
+      {
+        "text": "eu gostaria de falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " atendente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7ce21cd-ac88-471f-950e-c1129d6cfc29",
+    "data": [
+      {
+        "text": "falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " atendente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35045bba-00c9-4fc0-a2a2-aa7753dbe88b",
+    "data": [
+      {
+        "text": "gostaria de conversar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o segurador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55ffa051-bd3b-41e2-a6a9-ae58bf21e885",
+    "data": [
+      {
+        "text": "gostaria de falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " humano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c963648c-53fb-42f3-a58f-dbab60b6c43d",
+    "data": [
+      {
+        "text": "como faço pra falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " humano?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e2b8f91-f4c9-4329-9346-3fa8306da15d",
+    "data": [
+      {
+        "text": "como faço pra falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o segurador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71aae996-d5f6-4d1b-9fff-1480f69d76d7",
+    "data": [
+      {
+        "text": "quero falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " o segurador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b18df101-58f1-44e2-91db-a6f2b49ee6fd",
+    "data": [
+      {
+        "text": "desejo conversar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " humano",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9c15b779-3504-4b9a-ba27-3a290735e98e",
+    "data": [
+      {
+        "text": "Quero falar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

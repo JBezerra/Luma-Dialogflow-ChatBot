@@ -1,0 +1,48 @@
+{
+  "description": "Luma is a insurance assistant",
+  "language": "pt-br",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "luma-eefb8",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "15d6bc38-90bc-4204-9ccd-0a7b7b82cf8e",
+      "37e261aa-64ec-4a60-a2db-6fee1f8c1b3b",
+      "5cfe542a-292d-4540-a919-9c9037cb9690",
+      "0ec84094-5b55-4424-8c87-8011b3bf327a",
+      "6ca5c779-bdfc-40e5-9627-fb35e7292eba"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Atlantic/South_Georgia",
+  "webhook": {
+    "url": "https://dialog-api.herokuapp.com/api/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

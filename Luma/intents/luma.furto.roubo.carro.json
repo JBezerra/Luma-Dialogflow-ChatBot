@@ -1,0 +1,41 @@
+{
+  "id": "c3226799-a563-4ea7-ba16-f9ce65028647",
+  "name": "luma.furto.roubo.carro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "lumafurtoroubo-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "lumafurtoroubocarro-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "😨 Nossa, isso é chocante!!! Espero que esteja bem, peço que ligue imediatamente para o 190, vá também a delegacia mais próxima e faça um boletim de ocorrência, se possuir rastreador instalado no veículo, a empresa de rastreamento deve ser informada, deseja acionar o seguro?",
+            "😨 Que horror, espero que esteja bem, peço que ligue imediatamente para o 190, vá também a delegacia mais próxima e faça um boletim de ocorrência, se possuir rastreador instalado no veículo, a empresa de rastreamento deve ser informada, deseja acionar o seguro?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

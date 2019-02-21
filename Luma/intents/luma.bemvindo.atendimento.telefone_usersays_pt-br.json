@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e0d25411-611c-4d45-9e48-a9014c460ce3",
+    "data": [
+      {
+        "text": "meu numero é ",
+        "userDefined": false
+      },
+      {
+        "text": "81997660099",
+        "alias": "telefone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e381433-f1b5-43f0-98e0-a76834cbd3f6",
+    "data": [
+      {
+        "text": "81997660099",
+        "alias": "telefone",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

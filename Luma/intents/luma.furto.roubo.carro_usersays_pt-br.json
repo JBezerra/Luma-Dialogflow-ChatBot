@@ -1,0 +1,79 @@
+[
+  {
+    "id": "4b49ddf1-1f89-454c-9ebf-866965c78e52",
+    "data": [
+      {
+        "text": "Roubaram meu veiculo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b00dcefe-8165-418c-a9c1-e8d36b08dec0",
+    "data": [
+      {
+        "text": "Roubaram meu carro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df852849-eb2b-4c59-b165-2cb7a2266947",
+    "data": [
+      {
+        "text": "Eu fui assaltado!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da1bba81-96f3-486e-8c8b-ca2d0f9d10fc",
+    "data": [
+      {
+        "text": "Me roubaram!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc5c49a5-6ba3-4fbd-9b25-5e31b8995284",
+    "data": [
+      {
+        "text": "Fui roubado!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2181f864-34f5-4f22-9e6c-f03583c5e2a8",
+    "data": [
+      {
+        "text": "Furtaram meu veículo!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "816d6b66-dcfe-4039-988c-6502805c6ef6",
+    "data": [
+      {
+        "text": "Fui assaltado!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
